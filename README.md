@@ -1,7 +1,7 @@
 ## Oiii eu sou o Pablo, estudante de Analise e Desenvolvimento de Sistemas
 
 - 👋 Hi, I’m @PabloReiis
-- 🌱 Estudando JavaSCript
+- 🌱 Estudando JavaScript
 - 📫 html.pablo@gmail.com 
 
   ##
