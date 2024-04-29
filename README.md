@@ -28,4 +28,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Pablo Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloReiis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/")
+![Pablo Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloReiis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
